@@ -1,11 +1,11 @@
 export EDITOR='code --wait'
 
-alias rcreds='bin/rails credentials:edit'
+alias rcreds='rails credentials:edit'
 alias rdev='bin/dev'
-alias rc='bin/rails console'
+alias rc='rails console'
 alias rubo='rubocop -A'
-alias rtest='bin/rails test'
-alias rubotest='rubocop -A && bin/rails test'
+alias rtest='rails test'
+alias rubotest='rubocop -A && rails test'
 alias b='bundle'
 alias ba='bundle add'
 
