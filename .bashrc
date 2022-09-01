@@ -1,3 +1,3 @@
 export EDITOR='code --wait'
 
-source .bash_aliases
+source >/.dotfiles/.bash_aliases
