@@ -1,6 +1,7 @@
 alias rcreds='rails credentials:edit'
 alias rdev='bin/dev'
 alias rc='rails console'
+alias rseed='rails db:seed'
 alias rubo='rubocop -A'
 alias rtest='rails test'
 alias rubotest='rubocop -A && rails test'
